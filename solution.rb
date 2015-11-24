@@ -1,7 +1,7 @@
 require "sinatra"
 
 
-get '/maker/:nombre' do
+get '/makers/:nombre' do
 
 	
 
